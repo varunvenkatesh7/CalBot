@@ -1,6 +1,8 @@
 # CalBot
 
 ![Calbot Logo](CalBot.png)
+
+
 CalBot is a Calendar Bot written in Python that sends out reminders through the GroupMe API 
 
 It sends out reminders before readings, assignments, and exams in my Psychology class participants chat of 250+ people.
